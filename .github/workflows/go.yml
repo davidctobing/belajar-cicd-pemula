@@ -37,3 +37,4 @@ jobs:
           tags: girikuncoro/belajar-cicd:latest
 
           #triger action 2
+          #edit docker username and pass
